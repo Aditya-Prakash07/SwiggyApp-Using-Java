@@ -81,7 +81,7 @@ public class SwiggyApp {
         restaurant1.displayMenu();
         restaurant2.displayMenu();
 
-        // Create a customer
+        // Create a customer 
         Customer customer = new Customer("Tushar Sir");
 
         // Place orders
